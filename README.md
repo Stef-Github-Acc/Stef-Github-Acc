@@ -1,11 +1,13 @@
-### <div align="center">I'm Stefan, a budding full-stack freelance developer 👨‍💻</div>  
+### <div align="center">I'm Stefan, a budding full-stack developer 👨‍💻</div>  
   
 
 🔭 I’m currently working on upskilling via various courses  
   
 🌱 I’m currently learning more React and Design/Analysis of Algorithms  
   
-❓ Ask me anything about bootcamps, online courses and resources!  
+❓ Ask me anything about bootcamps, online courses and resources!
+
+🔍 Interests: Web Development, Networking, Cybersecurity, FOSS
   
 ⚡ Fun fact: I use tabs over spaces  
   
