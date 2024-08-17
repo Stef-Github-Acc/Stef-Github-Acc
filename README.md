@@ -3,9 +3,9 @@
 
 🔭 I’m currently working on upskilling via various courses  
   
-🌱 I’m currently learning more React and Design/Analysis of Algorithms  
+🌱 I’m currently learning more React and Analysis of Algorithms  
   
-❓ Ask me anything about bootcamps, online courses and resources!
+❓ Ask me anything about CS books, online courses and resources!
 
 🔍 Interests: Web Development, Networking, Cybersecurity, FOSS
   
