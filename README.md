@@ -1,4 +1,4 @@
-### <div align="center">I'm Stefan, a budding full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Stefan, a full-stack developer 👨‍💻</div>  
   
 
 🔭 I’m currently working on upskilling via various courses  
