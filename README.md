@@ -3,18 +3,12 @@
 
 🔭 I’m currently working on upskilling via various courses  
   
-
 🌱 I’m currently learning more React and Design/Analysis of Algorithms  
   
-
 ❓ Ask me anything about bootcamps, online courses and resources!  
   
-
 ⚡ Fun fact: I use tabs over spaces  
   
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -62,9 +56,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Stef-Github-Acc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -72,9 +63,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Stef-Github-Acc&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div> 
