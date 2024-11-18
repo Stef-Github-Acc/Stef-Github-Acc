@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on upskilling via various courses  
   
-🌱 I’m currently learning more React and Analysis of Algorithms  
+🌱 I’m currently learning: Analysis of Algorithms  
   
 ❓ Ask me anything about CS books, online courses and resources!
 
