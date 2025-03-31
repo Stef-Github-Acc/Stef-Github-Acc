@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on upskilling via various courses  
   
-🌱 I’m currently learning: Databases  
+🌱 I’m currently learning: Testing and Verification 
   
 ❓ Ask me anything about CS books, online courses and resources!
 
